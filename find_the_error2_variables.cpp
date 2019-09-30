@@ -8,6 +8,9 @@ using namespace std;
 // each (2) is a block of memory, the pointer points to the first element
 // so char** is like a 2d array
 
+// this does not compile, fix the error!
+// get it to print "Correct!" when ran
+
 int main(int argc, char** argv) {
     if (argc > 10) {
         cout << "That's too many arguments" << endl;
