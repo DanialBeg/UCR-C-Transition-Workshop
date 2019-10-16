@@ -1,0 +1,18 @@
+Create your own personal string class. 
+
+Requirements:
+Must be a class object
+
+Have atleast one constructor
+Have atleast one destructor
+
+Functions to think about -
+1) Compare strings
+2) Concatenation
+3) Reverse String
+4) Remove Character
+5) Uppercase the string
+6) Lowercase the string
+7) Print the string
+
+Extra functions are brownie points

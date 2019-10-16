@@ -1,0 +1,17 @@
+Create program where a user inputs 2 sets of integers of the same size. Then swap the contents between both lists.
+
+Requirements:
+int* setOne
+int* setTwo
+
+Sample Output:
+
+5
+1 2 3 4 5
+6 7 8 9 10
+
+Before: 1 2 3 4 5
+Before: 6 7 8 9 10
+
+After Swap: 6 7 8 9 10
+After Swap: 1 2 3 4 5
