@@ -5,6 +5,7 @@ Must be a class object
 
 Have atleast one constructor
 Have atleast one destructor
+No use of cstring functions
 
 Functions to think about -
 1) Compare strings
