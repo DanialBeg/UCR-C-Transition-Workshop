@@ -1,0 +1,11 @@
+Create a program that outputs a list of the first set of n even and odd numbers.
+
+Requirements:
+int* evenList;
+int* oddList;
+
+Sample Output:
+
+10
+Odd: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19
+Even: 0, 2, 4, 6, 8, 10, 12, 14, 16, 18
