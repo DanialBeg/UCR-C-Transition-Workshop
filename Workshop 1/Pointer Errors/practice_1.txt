@@ -1,0 +1,11 @@
+Create a quadratic calculator. Handle potential errors with Try-Catch
+
+Requirements:
+int* a
+int* b
+int* c
+
+Sample Output:
+
+1 2 1
+-1 -1
