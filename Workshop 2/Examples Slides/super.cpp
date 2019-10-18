@@ -22,7 +22,7 @@ class Student : public Person {
 };
 
 int main() {
-  student* s = new Student();
-  std::cout << s->Persons::getName() << std::endl;  // Prints "Person"
+  Student* s = new Student();
+  std::cout << s->Person::getName() << std::endl;  // Prints "Person"
   std::cout << s->getName() << std::endl;           // Prints "Student"
 }
